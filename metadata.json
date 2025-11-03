@@ -1,0 +1,5 @@
+{
+  "name": "AI Personal Expense Manager",
+  "description": "A modern, responsive web application to manage personal expenses, featuring an intuitive dashboard, multi-language support (English/Vietnamese), user/admin roles, and AI-powered category suggestions via the Gemini API.",
+  "requestFramePermissions": []
+}
